@@ -4,3 +4,6 @@
 # Ignore Gradle build output directory
 build
 java-playground-app/bin
+java-playground-app/.classpath
+java-playground-app/.project
+java-playground-app/.settings/
